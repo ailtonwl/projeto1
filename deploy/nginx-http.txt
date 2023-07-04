@@ -11,6 +11,7 @@
 # List - timedatectl list-timezones
 # sudo timedatectl set-timezone America/Sao_Paulo
 #
+# sudo ln -s /etc/nginx/sites-available/104.154.140.152 /etc/nginx/sites-enabled/104.154.140.152
 # HTTP
 server {
   listen 80;
